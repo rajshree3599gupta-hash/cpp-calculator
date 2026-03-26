@@ -1,5 +1,7 @@
-MY C++ PROJECT 
-1. CALCULATOR
-2. basic calculator
-3.STUDENT MANAGEMENT SYSTEM
-4.stores student details
+# My C++ Projects
+
+## 1. Calculator
+Basic calculator
+
+## 2. Student Management System
+Stores student details
