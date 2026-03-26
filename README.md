@@ -1,5 +1,5 @@
 MY C++ PROJECT 
 1. CALCULATOR
 2. basic calculator
-2.STUDENT MANAGEMENT SYSTEM
-stores student details
+3.STUDENT MANAGEMENT SYSTEM
+4.stores student details
